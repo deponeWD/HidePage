@@ -5,6 +5,5 @@ Simple module that hides pages that use a referenced template. Status is set whe
 ## Installation
 
 1. Download module and copy content to `site/modules/HidePage`.
-2. Install the module from your admin (Modules > Site > Hello World).
+2. Install the module from your admin (Modules > Site > Hide Page).
 3. Configure the template of the pages you wish to hide
- 
